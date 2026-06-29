@@ -57,6 +57,8 @@ step is reached.
 
 ## Setup
 
+Run the following commands from the repository root.
+
 Create and activate a virtual environment:
 
 ```bash
