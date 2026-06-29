@@ -1,7 +1,7 @@
 flask
 flask-apispec
 flask-restful
-marshmallow
+marshmallow<4
 matplotlib
 numpy
 openpyxl
