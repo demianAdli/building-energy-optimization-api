@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+.idea/
+.vscode/
+
+data/Opt_New.lp
+data/results_local_new*.csv
+*.lp
+
+scipampl.exe
+scipoptsuite*/
+New folder/
+
+.DS_Store
+Thumbs.db
